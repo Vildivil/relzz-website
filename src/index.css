@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
+
+body {
+  background-color: var(--color-yellow-400) /* oklch(0.852 0.199 91.936) */;
+}

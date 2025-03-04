@@ -1,0 +1,8 @@
+{
+  "build": {
+    "env": {
+      "BUN_INSTALL": "1"
+    },
+    "command": "bun install && bun run build"
+  }
+}

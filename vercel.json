@@ -3,5 +3,10 @@
     "env": {
       "BUN_INSTALL": "1"
     }
-  }
+  },
+  "rewrites": [
+    { "source": "/project", "destination": "/" },
+    { "source": "/about", "destination": "/" },
+    { "source": "/:path*", "destination": "/" }
+  ]
 }

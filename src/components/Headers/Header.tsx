@@ -34,11 +34,7 @@ const Header = () => {
           </a>
         </div>
 
-        <div
-          data-aos="fade-up"
-          data-aos-duration="20"
-          className="mt-6 flex justify-center md:justify-start gap-4 text-2xl"
-        >
+        <div className="mt-6 flex justify-center md:justify-start gap-4 text-2xl">
           <a href="https://www.facebook.com/farel.gans.1291">
             <img
               src={FacebookSVG}
